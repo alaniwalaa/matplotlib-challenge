@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-Transferring data from a CSV file format to a statistical Visualized Charts and Pies 
+Using jupyter notebook to read data from csv files to filter, customize and present in charts and pies for visual reading and understanding 
 
 Using Python and related libraries: 
 1- MatplotLib
@@ -9,3 +9,4 @@ Using Python and related libraries:
 4- Numpy 
 
 and DataFrames 
+
