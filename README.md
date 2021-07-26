@@ -10,3 +10,12 @@ Using Python and related libraries:
 
 and DataFrames 
 
+
+Screen Shot 2021-07-25 at 9.08.38 PM<img width="591" alt="Screen Shot 2021-07-25 at 9 08 38 PM" src="https://user-images.githubusercontent.com/51308869/126931945-1a5dcbff-ed99-49ba-b861-5c055181c3d3.png">
+
+
+
+Screen Shot 2021-07-25 at 9.08.55 PM<img width="915" alt="Screen Shot 2021-07-25 at 9 08 55 PM" src="https://user-images.githubusercontent.com/51308869/126931956-db8fda4d-a113-42a9-baf1-0c973759016b.png">
+
+
+
